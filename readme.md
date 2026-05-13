@@ -2,6 +2,10 @@
 ### ADVANCED PYTHON PROGRAMMING
 
 
-Author: Dibbendu P. and Nelly V.
+Author: Dibbendu P. and Nelly V. and David G.
+
 
 This is our first repository for the assignment
+
+
+
